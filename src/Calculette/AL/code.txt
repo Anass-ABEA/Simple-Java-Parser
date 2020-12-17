@@ -1,0 +1,8 @@
+int var = 12
+float 51 + 36
+var = 22
+/* commentaire ici var = 34 */
+var = var * 2
+132 / 2
+va2
+VAR

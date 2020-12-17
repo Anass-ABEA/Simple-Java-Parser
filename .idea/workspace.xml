@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af14698e-72b9-4550-9f3d-09027df4878a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jD18PMY5qX4KehX5jpuykTMSPL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="compilerSlow.AL" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspaces\Java Workspace\Training\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Home_Calculette">
+    <configuration name="Home (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compilerSlow.AL.Home" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compilerSlow.AL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculette.AL.Home" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculette.AL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compiler2.Home2" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compiler2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home_Calculette" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculette.AL.Home_Calculette" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculette.AL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home_TableSymbole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculette.Home_TableSymbole" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compiler2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aaaa" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Home_Calculette" />
+        <item itemvalue="Application.Home_TableSymbole" />
+        <item itemvalue="Application.Home (1)" />
+        <item itemvalue="Application.aaaa" />
+        <item itemvalue="Application.Home2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af14698e-72b9-4550-9f3d-09027df4878a" name="Default Changelist" comment="" />
+      <created>1603323688774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603323688774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="64" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606080643100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="64" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606080643100" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1607190936839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607190936839" />
+    <state x="2638" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605181275170" />
+    <state x="551" y="302" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603554111516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="302" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603554111516" />
+    <state width="412" height="466" key="DebuggerActiveHint" timestamp="1603564022708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="412" height="466" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603564022708" />
+    <state x="591" y="207" key="FileChooserDialogImpl" timestamp="1606074253682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="207" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606074253682" />
+    <state x="2659" y="261" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604668133825" />
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom" timestamp="1607192773141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607192773141" />
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605183197526" />
+    <state width="1493" height="90" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603586109531" />
+    <state width="1493" height="273" key="GridCell.Tab.0.center" timestamp="1607192773141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607192773141" />
+    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605183197526" />
+    <state width="1493" height="90" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603586109531" />
+    <state width="1493" height="273" key="GridCell.Tab.0.left" timestamp="1607192773141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607192773141" />
+    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605183197526" />
+    <state width="1493" height="90" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603586109531" />
+    <state width="1493" height="273" key="GridCell.Tab.0.right" timestamp="1607192773141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="273" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607192773141" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605183197526" />
+    <state width="1493" height="90" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603586109531" />
+    <state width="1493" height="205" key="GridCell.Tab.1.bottom" timestamp="1605980921480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605980921480" />
+    <state width="1877" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604673072525" />
+    <state width="1493" height="90" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603586109532" />
+    <state width="1493" height="205" key="GridCell.Tab.1.center" timestamp="1605980921480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605980921480" />
+    <state width="1877" height="255" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604673072525" />
+    <state width="1493" height="90" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603586109532" />
+    <state width="1493" height="205" key="GridCell.Tab.1.left" timestamp="1605980921480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605980921480" />
+    <state width="1877" height="255" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604673072525" />
+    <state width="1493" height="90" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603586109531" />
+    <state width="1493" height="205" key="GridCell.Tab.1.right" timestamp="1605980921480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605980921480" />
+    <state width="1877" height="255" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604673072525" />
+    <state width="1493" height="90" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603586109532" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606749533669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606749533669" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1605973896303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605973896303" />
+    <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603546349759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603546349759" />
+    <state x="372" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607190922877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607190922877" />
+    <state x="306" y="148" width="924" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603569427602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="306" y="148" width="924" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603569427602" />
+    <state x="499" y="172" key="extract.method.dialog" timestamp="1603511922385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="172" key="extract.method.dialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603511922385" />
+    <state x="274" y="45" key="new project wizard" timestamp="1606138576641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="45" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606138576641" />
+    <state x="2262" y="140" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604668148802" />
+    <state x="469" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1603565598155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="169" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603565598155" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604324619497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604324619497" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605967941778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605967941778" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="36" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Training" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Training" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Training$Stones.ic" NAME="Stones Coverage Results" MODIFIED="1603581278779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Training$Evac2.ic" NAME="Evac2 Coverage Results" MODIFIED="1603574057455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Training$Separable.ic" NAME="Separable Coverage Results" MODIFIED="1603556930624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Training$Compiler.ic" NAME="Compiler Coverage Results" MODIFIED="1603550705161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
